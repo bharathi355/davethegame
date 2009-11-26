@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVNTest", "SVNTest\SVNTest.csproj", "{A66A9DFB-33C7-47F1-B930-8213D35F2160}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A66A9DFB-33C7-47F1-B930-8213D35F2160}.Debug|x86.ActiveCfg = Debug|x86
+		{A66A9DFB-33C7-47F1-B930-8213D35F2160}.Debug|x86.Build.0 = Debug|x86
+		{A66A9DFB-33C7-47F1-B930-8213D35F2160}.Release|x86.ActiveCfg = Release|x86
+		{A66A9DFB-33C7-47F1-B930-8213D35F2160}.Release|x86.Build.0 = Release|x86
+		{CC6D7E70-A688-4D4E-A224-8DF28EAD8B70}.Debug|x86.ActiveCfg = Debug|x86
+		{CC6D7E70-A688-4D4E-A224-8DF28EAD8B70}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
